@@ -2,3 +2,4 @@
 *.pdf
 test*
 *.zip
+*.ipynb_checkpoints
